@@ -1,2 +1,3 @@
 # TextAnalizator
 # TextAnalizator
+# TXTAnalizer
